@@ -145,11 +145,7 @@ Bu projeyi geliştirerek şunları yapabilirsin:
 
 ---
 
-## 📜 Lisans
 
-MIT License
-
----
 
 ## 👤 Not
 
